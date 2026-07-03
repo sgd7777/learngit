@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.sgd.module1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_sgd_module1_jar</output-path>
+    <root id="archive" name="com.sgd.module1.jar">
+      <element id="module-output" name="com.sgd.module1" />
+    </root>
+  </artifact>
+</component>
